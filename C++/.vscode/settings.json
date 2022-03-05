@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "utility": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp",
+        "algorithm": "cpp",
+        "xlocale": "cpp",
+        "vector": "cpp",
+        "unordered_map": "cpp",
+        "xstring": "cpp",
+        "list": "cpp",
+        "xhash": "cpp",
+        "initializer_list": "cpp",
+        "xutility": "cpp",
+        "limits": "cpp",
+        "type_traits": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
